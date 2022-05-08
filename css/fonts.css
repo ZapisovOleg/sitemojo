@@ -1,0 +1,60 @@
+@font-face{
+
+    font-family: 'Montserrat-Bold';
+    
+    src: url('../fonts/WebFont.eot');
+    
+    src: url('../fonts/Montserrat-Bold/Montserrat-Bold.eot?iefix') format('eot'),
+    
+    url('../fonts/Montserrat-Bold/Montserrat-Bold.woff') format('woff'),
+    
+    url('../fonts/Montserrat-Bold/Montserrat-Bold.ttf') format('truetype');
+ 
+    
+    font-weight: normal;
+    
+    font-style: normal;
+    
+    }
+
+    @font-face{
+
+        font-family: 'Montserrat-Regular';
+        
+        src: url('../fonts/Montserrat-Regular/Montserrat-Regular.eot');
+        
+        src: url('../fonts/Montserrat-Regular/Montserrat-Regular.eot?iefix') format('eot'),
+        
+        url('../fonts/Montserrat-Regular/Montserrat-Regular.woff') format('woff'),
+        
+        url('../fonts/Montserrat-Regular/Montserrat-Regular.ttf') format('truetype');
+     
+        
+        font-weight: normal;
+        
+        font-style: normal;
+        
+        }
+
+
+
+
+
+        @font-face{
+
+            font-family: 'KaushanScript-Regular';
+            
+            src: url('../fonts/KaushanScript-Regular/KaushanScript-Regular.eot');
+            
+            src: url('../fonts/KaushanScript-Regular/KaushanScript-Regular.eot?iefix') format('eot'),
+            
+            url('../fonts/KaushanScript-Regular/KaushanScript-Regular.woff') format('woff'),
+            
+            url('../fonts/KaushanScript-Regular/KaushanScript-Regular.ttf') format('truetype');
+         
+            
+            font-weight: normal;
+            
+            font-style: normal;
+            
+            }
